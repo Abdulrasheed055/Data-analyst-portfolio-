@@ -14,3 +14,4 @@ This is a repository to showcase skills, share projects and track my progress in
        - [Comprehensive Sales Analysis project](https://github.com/Abdulrasheed055/Data-Analytics-with-Oasis-Infobyte-Sales-Analysis-Project-)
       - [Analyzing Google app data ](https://github.com/Abdulrasheed055/Data-Analytics-with-Oasis-Infobyte-google-app-)
       - [New York City Airbnb](https://github.com/Abdulrasheed055/Data-Analytics-with-Oasis-Infobyte-data-cleaning-)
+      - [Marketing analyst custonmer segmentation](https://github.com/Abdulrasheed055/Data-Analytics-with-Oasis-Infobyte-Marketing-Analytics-Customer-Segmentation)
