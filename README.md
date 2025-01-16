@@ -10,6 +10,6 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Table of Contents
 - [About](https://github.com/Abdulrasheed055/Data-analyst-portfolio-#about)
 - [Portfolio Projects](https://github.com/Abdulrasheed055/Data-analyst-portfolio-/blob/main)
-     - Python
-  - [Comprehensive Sales Analysis project](https://github.com/Abdulrasheed055/Data-Analytics-with-Oasis-Infobyte-Sales-Analysis-Project-)
-  - [Analyzing Google app data ](https://github.com/Abdulrasheed055/Data-Analytics-with-Oasis-Infobyte-google-app-) 
+   - Python
+       - [Comprehensive Sales Analysis project](https://github.com/Abdulrasheed055/Data-Analytics-with-Oasis-Infobyte-Sales-Analysis-Project-)
+      - [Analyzing Google app data ](https://github.com/Abdulrasheed055/Data-Analytics-with-Oasis-Infobyte-google-app-) 
