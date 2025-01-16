@@ -10,4 +10,6 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Table of Contents
 - [About](https://github.com/Abdulrasheed055/Data-analyst-portfolio-#about)
 - [Portfolio Projects](https://github.com/Abdulrasheed055/Data-analyst-portfolio-/blob/main)
-  
+- Python
+  - [Comprehensive Sales Analysis to Uncover Trends and Boost Revenue Growth](https://github.com/Abdulrasheed055/Data-Analytics-with-Oasis-Infobyte-Sales-Analysis-Project-)
+    - [Tech Store Sales Analysis](https://github.com/tiannaparris/Data-Analysis-Portfolio#tech-store-sales-analysis) 
