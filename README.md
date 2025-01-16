@@ -16,4 +16,4 @@ This is a repository to showcase skills, share projects and track my progress in
       - [New York City Airbnb](https://github.com/Abdulrasheed055/Data-Analytics-with-Oasis-Infobyte-data-cleaning-)
       - [Marketing analyst custonmer segmentation](https://github.com/Abdulrasheed055/Data-Analytics-with-Oasis-Infobyte-Marketing-Analytics-Customer-Segmentation)
    - Excel
-      - [ Sale Analysis Dashboard]()
+      - [ Sale Analysis Dashboard](https://github.com/Abdulrasheed055/Data-analysis-dashboard-2)
