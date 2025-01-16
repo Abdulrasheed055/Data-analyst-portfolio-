@@ -12,4 +12,5 @@ This is a repository to showcase skills, share projects and track my progress in
 - [Portfolio Projects](https://github.com/Abdulrasheed055/Data-analyst-portfolio-/blob/main)
    - Python
        - [Comprehensive Sales Analysis project](https://github.com/Abdulrasheed055/Data-Analytics-with-Oasis-Infobyte-Sales-Analysis-Project-)
-      - [Analyzing Google app data ](https://github.com/Abdulrasheed055/Data-Analytics-with-Oasis-Infobyte-google-app-) 
+      - [Analyzing Google app data ](https://github.com/Abdulrasheed055/Data-Analytics-with-Oasis-Infobyte-google-app-)
+      - [New York City Airbnb](https://github.com/Abdulrasheed055/Data-Analytics-with-Oasis-Infobyte-data-cleaning-)
