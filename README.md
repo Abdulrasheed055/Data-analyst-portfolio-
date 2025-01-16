@@ -19,4 +19,4 @@ This is a repository to showcase skills, share projects and track my progress in
       - [ Sale Analysis Dashboard](https://github.com/Abdulrasheed055/Data-analysis-dashboard-2)
     
     - power bi
-        -[Toman Bike Shop Project]()
+        -[Toman Bike Shop Project](https://github.com/Abdulrasheed055/Data-analysis-databoard-3)
