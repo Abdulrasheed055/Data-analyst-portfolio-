@@ -9,5 +9,5 @@ In my free time, I enjoy exploring new data analysis tools and techniques, and I
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 ## Table of Contents
 - [About](https://github.com/Abdulrasheed055/Data-analyst-portfolio-#about)
-- [Portfolio Projects]()
+- [Portfolio Projects](https://github.com/Abdulrasheed055/Data-analyst-portfolio-/blob/main)
   
