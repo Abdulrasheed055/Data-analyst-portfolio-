@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/Abdulrasheed055/Data-analyst-portfolio-/main/Abdulrasheed.jpg" alt="Profile Picture" width="200px" style="border-radius: 50%;">
 
 ## About
-Hi, my name Aminu Abdulrasheed computer science graduate of federal university lokoja , I have developed a strong foundation in the computer sciences and a passion for using data to uncover meaningful insights. I am excited to bring my technical and analytical skills to the field of data analyst and data sciece as an entry-level data specialist
+Hi, my name **Aminu Abdulrasheed** computer science graduate of **federal university lokoja** , I have developed a strong foundation in the computer sciences and a passion for using data to uncover meaningful insights. I am excited to bring my technical and analytical skills to the field of data analyst and data sciece as an entry-level data specialist
 
 During my studies, I honed my ability to work with complex data and developed a keen eye for identifying patterns and trends. I also gained experience in  communities leadership, data management, and statistical analysis, which I believe will be valuable assets in my role as a data analyst.
 
