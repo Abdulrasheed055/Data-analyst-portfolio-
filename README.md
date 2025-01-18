@@ -18,9 +18,10 @@ This is a repository to showcase skills, share projects and track my progress in
       - [Road accident dashboard](https://github.com/Abdulrasheed055/-Road-Accident-Dashboard-)
 
 
-    -Sql
+    - Sql
+
        -[Resturant order](https://github.com/Abdulrasheed055/Restaurant-orders-)
-   
+
    - Python
        - [Comprehensive Sales Analysis project](https://github.com/Abdulrasheed055/Data-Analytics-with-Oasis-Infobyte-Sales-Analysis-Project-)
       - [Analyzing Google app data ](https://github.com/Abdulrasheed055/Data-Analytics-with-Oasis-Infobyte-google-app-)
