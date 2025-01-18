@@ -19,8 +19,7 @@ This is a repository to showcase skills, share projects and track my progress in
 
 
     - Sql
-
-       -[Resturant order](https://github.com/Abdulrasheed055/Restaurant-orders-)
+       - [Resturant order](https://github.com/Abdulrasheed055/Restaurant-orders-)
 
    - Python
        - [Comprehensive Sales Analysis project](https://github.com/Abdulrasheed055/Data-Analytics-with-Oasis-Infobyte-Sales-Analysis-Project-)
