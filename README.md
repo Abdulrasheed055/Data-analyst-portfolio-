@@ -17,6 +17,7 @@ This is a repository to showcase skills, share projects and track my progress in
       - [Marketing analyst custonmer segmentation](https://github.com/Abdulrasheed055/Data-Analytics-with-Oasis-Infobyte-Marketing-Analytics-Customer-Segmentation)
    - Excel
       - [ Sale Analysis Dashboard](https://github.com/Abdulrasheed055/Data-analysis-dashboard-2)
+      - [Road accident dashboard](https://github.com/Abdulrasheed055/-Road-Accident-Dashboard-)
     
     - power bi
         - [Toman Bike Shop Project](https://github.com/Abdulrasheed055/Data-analysis-databoard-3)
