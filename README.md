@@ -29,3 +29,4 @@ This is a repository to showcase skills, share projects and track my progress in
   
     - power bi
         - [Toman Bike Shop Project](https://github.com/Abdulrasheed055/Data-analysis-databoard-3)
+        -[ E-commerce dashboard analysis](https://github.com/Abdulrasheed055/E-commerce-Dashboard-Analysis/blob/main/README.md)
