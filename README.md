@@ -1,14 +1,14 @@
 # Data-analyst portfolio
-<img src="https://raw.githubusercontent.com/Abdulrasheed055/Data-analyst-portfolio-/main/Abdulrasheed.jpg" alt="Profile Picture" width="220px" style="border-radius: 50%;">
+<img src="https://raw.githubusercontent.com/Abdulrasheed055/Data-analyst-portfolio-/main/Abdulrasheed.jpg" alt="Profile Picture" width="240px" style="border-radius: 50%;">
 
-## About
-Hi, my name **Aminu Abdulrasheed** computer science graduate of **federal university lokoja** , I have developed a strong foundation in the computer sciences and a passion for using data to uncover meaningful insights. I am excited to bring my technical and analytical skills to the field of data analyst and data sciece as an entry-level data specialist
+## About me
+Hi, my name is **Aminu Abdulrasheed**, a **Computer Science graduate** from **Federal University Lokoja** with a strong passion for **data analytics and data science**. I thrive on transforming raw data into meaningful insights that drive informed decision-making.  
 
-During my studies, I honed my ability to work with complex data and developed a keen eye for identifying patterns and trends. I also gained experience in  communities leadership, data management, and statistical analysis, which I believe will be valuable assets in my role as a data analyst.
+With a solid foundation in **data management, statistical analysis, and business intelligence**, I have developed expertise in **SQL, Python, Excel, and visualization tools like Power BI and Tableau**. My ability to **identify trends, clean and process complex datasets, and derive actionable insights** makes me a valuable asset for data-driven roles.  
 
-In my free time, I enjoy exploring new data analysis tools and techniques, and I am always looking for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thrill of discovering new insights and the satisfaction of using data to solve complex problem
+Beyond technical skills, I bring **problem-solving abilities, attention to detail, and a leadership mindset** gained through community leadership and collaborative projects. I am eager to apply these skills in an **entry-level data analyst role**, where I can contribute to impactful decision-making and continue expanding my expertise in **machine learning, automation, and data-driven strategies**.  
 
-This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
+This repository serves as a **showcase of my data analytics projects, skills, and progress** in mastering **data science methodologies**. Feel free to explore my work, and let’s connect!  
 ## Table of Contents
 - [About](https://github.com/Abdulrasheed055/Data-analyst-portfolio-#about)
 - [Portfolio Projects click to view👇](https://github.com/Abdulrasheed055/Data-analyst-portfolio-/blob/main)
