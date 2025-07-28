@@ -13,24 +13,32 @@ This repository serves as a showcase of my data analytics projects, skills, and 
 - [About](https://github.com/Abdulrasheed055/Data-analyst-portfolio-#about)
 - [Portfolio Projects click to view👇](https://github.com/Abdulrasheed055/Data-analyst-portfolio-/blob/main)
 
-   - Excel
+   - Excel (click  project title to view👇)
      - [Smart Sales Tracker & Receipt Generator for business](https://github.com/Abdulrasheed055/Smart-Sales-Tracker-Excel-VBA/tree/main)
       - [ Sale Analysis Dashboard](https://github.com/Abdulrasheed055/Data-analysis-dashboard-2)
       - [Road accident dashboard](https://github.com/Abdulrasheed055/-Road-Accident-Dashboard-)
 
 
-    - Sql
+    - Sql(click  project title to view👇)
        - [Resturant order](https://github.com/Abdulrasheed055/Restaurant-orders-)
        - [EDA SQL-Analysis-for-Marketing-Campaign-Performance](https://github.com/Abdulrasheed055/SQL-Analysis-for-Marketing-Campaign-Performance/blob/main/README.md)
       - [ Income Distribution and Lifestyle Analytics](https://github.com/Abdulrasheed055/SoulVibe-Data-analysis-Intern?tab=readme-ov-file)
    
-   - Python
+   - Python(click  project title to view👇)
        - [Comprehensive Sales Analysis project](https://github.com/Abdulrasheed055/Data-Analytics-with-Oasis-Infobyte-Sales-Analysis-Project-)
       - [Google play store analysis](https://github.com/Abdulrasheed055/Data-Analytics-with-Oasis-Infobyte-google-app-)
       - [New York City Airbnb](https://github.com/Abdulrasheed055/Data-Analytics-with-Oasis-Infobyte-data-cleaning-)
       - [Marketing analyst customer segmentation](https://github.com/Abdulrasheed055/Data-Analytics-with-Oasis-Infobyte-Marketing-Analytics-Customer-Segmentation)
   
-    - power bi
+    - power bi(click  project title to view👇)
         - [Toman Bike Shop Project](https://github.com/Abdulrasheed055/Data-analysis-databoard-3)
         - [E-commerce dashboard analysis](https://github.com/Abdulrasheed055/E-commerce-Dashboard-Analysis/blob/main/README.md)
-        - [📊 Demographic and Financial Dashboard](https://github.com/Abdulrasheed055/Demographic-and-Financial-Dashboard-Power-BI-Project-?tab=readme-ov-file)
+        - [Demographic and Financial Dashboard](https://github.com/Abdulrasheed055/Demographic-and-Financial-Dashboard-Power-BI-Project-?tab=readme-ov-file)
+     
+
+## 🤝 Contact
+Project by **Abdulrasheed Aminu**  
+-  aminuabdulrasheed055@gmail.com
+-  📱  +2348132628613  
+- 🌐 GitHub: [https://github.com/Abdulrasheed055]
+- linkedlin :https://www.linkedin.com/in/aminu-abdulrasheed-747597232/ 
