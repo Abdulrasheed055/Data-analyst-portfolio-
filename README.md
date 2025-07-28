@@ -14,6 +14,7 @@ This repository serves as a showcase of my data analytics projects, skills, and 
 - [Portfolio Projects click to view👇](https://github.com/Abdulrasheed055/Data-analyst-portfolio-/blob/main)
 
    - Excel
+     - [Smart Sales Tracker & Receipt Generator for business](https://github.com/Abdulrasheed055/Smart-Sales-Tracker-Excel-VBA/tree/main)
       - [ Sale Analysis Dashboard](https://github.com/Abdulrasheed055/Data-analysis-dashboard-2)
       - [Road accident dashboard](https://github.com/Abdulrasheed055/-Road-Accident-Dashboard-)
 
