@@ -17,7 +17,7 @@ This repository serves as a showcase of my data analytics projects, skills, and 
      - [Smart Sales Tracker & Receipt Generator for business](https://github.com/Abdulrasheed055/Smart-Sales-Tracker-Excel-VBA/tree/main)
       - [ Sale Analysis Dashboard](https://github.com/Abdulrasheed055/Data-analysis-dashboard-2)
       - [Road accident dashboard](https://github.com/Abdulrasheed055/-Road-Accident-Dashboard-)
-       -[Customers & Churn Dashboard Analysis- MTN Nigeria](https://github.com/Abdulrasheed055/MTN-customer-churn-analysis-recommendations-/blob/main/README.md)
+     - [Customers & Churn Dashboard Analysis- MTN Nigeria](https://github.com/Abdulrasheed055/MTN-customer-churn-analysis-recommendations-/blob/main/README.md)
 
     - Sql(click  project title to view👇)
        - [Resturant order](https://github.com/Abdulrasheed055/Restaurant-orders-)
