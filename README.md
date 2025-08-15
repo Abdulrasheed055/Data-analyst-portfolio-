@@ -30,6 +30,7 @@ This repository serves as a showcase of my data analytics projects, skills, and 
       - [Google play store analysis](https://github.com/Abdulrasheed055/Data-Analytics-with-Oasis-Infobyte-google-app-)
       - [New York City Airbnb](https://github.com/Abdulrasheed055/Data-Analytics-with-Oasis-Infobyte-data-cleaning-)
       - [Marketing analyst customer segmentation](https://github.com/Abdulrasheed055/Data-Analytics-with-Oasis-Infobyte-Marketing-Analytics-Customer-Segmentation)
+       - [Wine Quality Predictions with Machine Learning](https://github.com/Abdulrasheed055/Data-Analytics-with-Oasis-Infobyte-wine-prediction-)
   
     - power bi(click  project title to view👇)
         - [Toman Bike Shop Project](https://github.com/Abdulrasheed055/Data-analysis-databoard-3)
