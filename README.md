@@ -37,7 +37,8 @@ This repository serves as a showcase of my data analytics projects, skills, and 
         - [E-commerce dashboard analysis](https://github.com/Abdulrasheed055/E-commerce-Dashboard-Analysis/blob/main/README.md)
         - [Demographic and Financial Dashboard](https://github.com/Abdulrasheed055/Demographic-and-Financial-Dashboard-Power-BI-Project-?tab=readme-ov-file)
           
-      - KoboToolbox + Excel(click  project title to view👇)
+
+       - KoboToolbox + Excel(click  project title to view👇)
          - [Household Survey 2025](https://github.com/Abdulrasheed055/Household-Socio-Economic-Survey-Project/blob/main/README.md)
       
 
