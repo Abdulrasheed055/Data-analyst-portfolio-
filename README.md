@@ -36,6 +36,7 @@ This repository serves as a showcase of my data analytics projects, skills, and 
         - [Toman Bike Shop Project](https://github.com/Abdulrasheed055/Data-analysis-databoard-3)
         - [E-commerce dashboard analysis](https://github.com/Abdulrasheed055/E-commerce-Dashboard-Analysis/blob/main/README.md)
         - [Demographic and Financial Dashboard](https://github.com/Abdulrasheed055/Demographic-and-Financial-Dashboard-Power-BI-Project-?tab=readme-ov-file)
+        - [Employee Attrition Analysis Dashboard](https://github.com/Abdulrasheed055/Alfido-Tech-Internship)
           
 
     - KoboToolbox + Excel(click  project title to view👇)
