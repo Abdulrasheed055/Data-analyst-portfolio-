@@ -18,6 +18,7 @@ This repository serves as a showcase of my data analytics projects, skills, and 
      - [Customers & Churn Dashboard Analysis- MTN Nigeria](https://github.com/Abdulrasheed055/MTN-customer-churn-analysis-recommendations-/blob/main/README.md)
       - [ Sale Analysis Dashboard](https://github.com/Abdulrasheed055/Data-analysis-dashboard-2)
       - [Road accident dashboard](https://github.com/Abdulrasheed055/-Road-Accident-Dashboard-)
+      - [Netflix Movies and TV Shows Analysis](https://github.com/Abdulrasheed055/-Netflix-Movies-and-TV-Shows-Analysis/tree/main)
     
 
     - Sql(click  project title to view👇)
