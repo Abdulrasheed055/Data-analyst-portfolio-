@@ -19,8 +19,7 @@ This repository serves as a showcase of my data analytics projects, skills, and 
      - [Customers & Churn Dashboard Analysis- MTN Nigeria](https://github.com/Abdulrasheed055/MTN-customer-churn-analysis-recommendations-/tree/main)
       - [ Sale Analysis Dashboard](https://github.com/Abdulrasheed055/Data-analysis-dashboard-2)
       - [Road accident dashboard](https://github.com/Abdulrasheed055/-Road-Accident-Dashboard-)
-     
-    
+      - [lobal-Coffee-Market-Analysis-Production-Trade-Consumption-and-Stock-Trends-1960-2025](https://github.com/Abdulrasheed055/Global-Coffee-Market-Analysis-Production-Trade-Consumption-and-Stock-Trends-1960-2025-)
 
     - Sql(click  project title to view👇)
        - [Resturant order](https://github.com/Abdulrasheed055/Restaurant-orders-)
