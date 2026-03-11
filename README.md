@@ -35,11 +35,11 @@ This repository serves as a showcase of my data analytics projects, skills, and 
        - [Wine Quality Predictions with Machine Learning](https://github.com/Abdulrasheed055/Data-Analytics-with-Oasis-Infobyte-wine-prediction-)
   
     - power bi(click  project title to view👇)
-       - [Customer Behavior Dashboard](https://github.com/Abdulrasheed055/Customer-Shopping-Behavior-Analysis-dashoard/tree/main)
-        - [Toman Bike Shop Project](https://github.com/Abdulrasheed055/Data-analysis-databoard-3)
-        - [Demographic and Financial Dashboard](https://github.com/Abdulrasheed055/Demographic-and-Financial-Dashboard-Power-BI-Project-?tab=readme-ov-file)
-        - [Employee Attrition Analysis Dashboard](https://github.com/Abdulrasheed055/Alfido-Tech-Internship)
         - [Pizza Sala Report Power BI](https://github.com/Abdulrasheed055/-Pizza-Sales-Analysis-Power-BI/tree/main)
+        - [Customer Behavior Dashboard](https://github.com/Abdulrasheed055/Customer-Shopping-Behavior-Analysis-dashoard/tree/main)
+         - [Toman Bike Shop Project](https://github.com/Abdulrasheed055/Data-analysis-databoard-3)
+        - [Employee Attrition Analysis Dashboard](https://github.com/Abdulrasheed055/Alfido-Tech-Internship)
+        
           
 
     - KoboToolbox + Excel(click  project title to view👇)
