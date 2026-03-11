@@ -19,7 +19,7 @@ This repository serves as a showcase of my data analytics projects, skills, and 
       - [ Sale Analysis Dashboard](https://github.com/Abdulrasheed055/Data-analysis-dashboard-2)
       - [Road accident dashboard](https://github.com/Abdulrasheed055/-Road-Accident-Dashboard-)
       - [Global-Coffee-Market-Analysis-Production-1960-2025](https://github.com/Abdulrasheed055/Global-Coffee-Market-Analysis-Production-Trade-Consumption-and-Stock-Trends-1960-2025-)
-        - [Netflix Movies and TV Shows Analysis](https://github.com/Abdulrasheed055/-Netflix-Movies-and-TV-Shows-Analysis/tree/main)
+     - [Netflix Movies and TV Shows Analysis](https://github.com/Abdulrasheed055/-Netflix-Movies-and-TV-Shows-Analysis/tree/main)
 
     - Sql(click  project title to view👇)
        - [Customer Behavior analysis](https://github.com/Abdulrasheed055/Customer-Shopping-Behavior-Analysis-/blob/main/README.md)
