@@ -22,6 +22,7 @@ This repository serves as a showcase of my data analytics projects, skills, and 
       - [Global-Coffee-Market-Analysis-Production-1960-2025](https://github.com/Abdulrasheed055/Global-Coffee-Market-Analysis-Production-Trade-Consumption-and-Stock-Trends-1960-2025-)
 
     - Sql(click  project title to view👇)
+       -[Customer Behavior analysis](https://github.com/Abdulrasheed055/Customer-Shopping-Behavior-Analysis-/blob/main/README.md)
        - [Resturant order](https://github.com/Abdulrasheed055/Restaurant-orders-)
        - [EDA SQL-Analysis-for-Marketing-Campaign-Performance](https://github.com/Abdulrasheed055/SQL-Analysis-for-Marketing-Campaign-Performance/blob/main/README.md)
       - [ Income Distribution and Lifestyle Analytics](https://github.com/Abdulrasheed055/SoulVibe-Data-analysis-Intern?tab=readme-ov-file)
