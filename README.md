@@ -22,7 +22,7 @@ This repository serves as a showcase of my data analytics projects, skills, and 
      - [Netflix Movies and TV Shows Analysis](https://github.com/Abdulrasheed055/-Netflix-Movies-and-TV-Shows-Analysis/tree/main)
 
     - Sql(click  project title to view👇)
-       - [Customer Behavior analysis](https://github.com/Abdulrasheed055/Customer-Shopping-Behavior-Analysis-/blob/main/README.md)
+       - [Customer Behavior analysis](https://github.com/Abdulrasheed055/Customer-Shopping-Behavior-Analysis-/tree/main)
        - [EDA SQL-Analysis-for-Marketing-Campaign-Performance](https://github.com/Abdulrasheed055/SQL-Analysis-for-Marketing-Campaign-Performance/blob/main/README.md)
       - [ Income Distribution and Lifestyle Analytics](https://github.com/Abdulrasheed055/SoulVibe-Data-analysis-Intern?tab=readme-ov-file)
       - [Resturant order](https://github.com/Abdulrasheed055/Restaurant-orders-)
