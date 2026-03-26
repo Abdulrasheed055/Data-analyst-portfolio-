@@ -46,7 +46,7 @@ This repository serves as a showcase of my data analytics projects, skills, and 
          - [Household Survey 2025](https://github.com/Abdulrasheed055/Household-Socio-Economic-Survey-Project/blob/main/README.md)
 
     - API → Python (clean + validate) → PostgreSQL → SQL analysis👇
-         -[Character Analytics Dashboard](https://github.com/Abdulrasheed055/MLS-Character-Data-Analytics-Quality-Assurance/tree/main)
+         - [Character Analytics Dashboard](https://github.com/Abdulrasheed055/MLS-Character-Data-Analytics-Quality-Assurance/tree/main)
       
 
 ## 🤝 Contact
