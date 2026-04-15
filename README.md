@@ -54,4 +54,5 @@ Project by **Abdulrasheed Aminu**
 -  aminuabdulrasheed055@gmail.com
 -  📱  +2348132628613  
 - 🌐 GitHub: [https://github.com/Abdulrasheed055]
-- linkedlin :https://www.linkedin.com/in/aminu-abdulrasheed-747597232/ 
+- linkedlin :https://www.linkedin.com/in/aminu-abdulrasheed-747597232/
+- Youtube :https://www.youtube.com/@AminuAnalyst
