@@ -14,7 +14,7 @@ This repository serves as a showcase of my data analytics projects, skills, and 
 - [Portfolio Projects click to view👇](https://github.com/Abdulrasheed055/Data-analyst-portfolio-/blob/main)
 
    - Excel (click  project title to view👇)
-     -[Bank-Loan-Risk-Portfolio-Performance-Analysis-Project](https://github.com/Abdulrasheed055/Bank-Loan-Risk-Portfolio-Performance-Analysis-Project-Objective) 
+     - [Bank-Loan-Risk-Portfolio-Performance-Analysis-Project](https://github.com/Abdulrasheed055/Bank-Loan-Risk-Portfolio-Performance-Analysis-Project-Objective) 
      - [Smart Sales Tracker & Receipt Generator for business](https://github.com/Abdulrasheed055/Smart-Sales-Tracker-Excel-VBA/tree/main)
      - [Customers & Churn Dashboard Analysis- MTN Nigeria](https://github.com/Abdulrasheed055/MTN-customer-churn-analysis-recommendations-/tree/main)
       - [ Sale Analysis Dashboard](https://github.com/Abdulrasheed055/Data-analysis-dashboard-2)
