@@ -49,7 +49,7 @@ This repository serves as a showcase of my data analytics projects, skills, and 
     - API → Python (clean + validate) → PostgreSQL → SQL analysis👇
          - [Character Analytics Dashboard](https://github.com/Abdulrasheed055/MLS-Character-Data-Analytics-Quality-Assurance/tree/main)
 
-      - ClickHouse(Data Warehouse) → Python (Pandas: cleaning & validation) → SQL Analysis → Streamlit 👇
+  - ClickHouse(Data Warehouse) → Python (Pandas: cleaning & validation) → SQL Analysis → Streamlit 👇
           - [Marketplace-Analytics-Dashboard](https://github.com/Abdulrasheed055/Marketplace-Analytics-Dashboard-ClickHouse-Streamlit-/tree/main)  
 
 ## 🤝 Contact
