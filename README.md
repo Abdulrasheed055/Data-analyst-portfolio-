@@ -37,7 +37,7 @@ This repository serves as a showcase of my data analytics projects, skills, and 
 
   
     - power bi(click  project title to view👇)
-       - [Product Sales, Profitability & Business Performance Analysis]([Product Sales, Profitability & Business Performance Analysisz](https://github.com/Abdulrasheed055/-Product-Sales-Profitability-Business-Performance-Analysis/tree/main)
+      - [Product Sales, Profitability & Business Performance Analysis](https://github.com/Abdulrasheed055/-Product-Sales-Profitability-Business-Performance-Analysis/tree/main)
         - [Pizza Sale Report Power BI](https://github.com/Abdulrasheed055/-Pizza-Sales-Analysis-Power-BI/tree/main)
         - [Customer Behavior Dashboard](https://github.com/Abdulrasheed055/Customer-Shopping-Behavior-Analysis-dashoard/tree/main)
          - [Toman Bike Shop Project](https://github.com/Abdulrasheed055/Data-analysis-databoard-3)
