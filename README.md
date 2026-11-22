@@ -40,6 +40,7 @@ This repository serves as a showcase of my data analytics projects, skills, and 
         - [Customer Behavior Dashboard](https://github.com/Abdulrasheed055/Customer-Shopping-Behavior-Analysis-dashoard/tree/main)
          - [Toman Bike Shop Project](https://github.com/Abdulrasheed055/Data-analysis-databoard-3)
         - [Employee Attrition Analysis Dashboard](https://github.com/Abdulrasheed055/Alfido-Tech-Internship)
+        - [Product Sales, Profitability & Business Performance Analysis]([Product Sales, Profitability & Business Performance Analysisz](https://github.com/Abdulrasheed055/-Product-Sales-Profitability-Business-Performance-Analysis/tree/main))
         
           
 
